@@ -13,9 +13,7 @@ Project Appium maven with cucumber for Android
 	
 2. Run android tests: `$ mvn clean test -Dcucumber.options="--tags @here_tags_for_Android" -Denv.PLATAFORM=ANDROID`
 
-3. Run ios tests: `$ mvn clean test -Dcucumber.options="--tags @here_tags_for_IOS" -Denv.PLATAFORM=IPHONE_8`
-
-4. Generate reports: `mvn allure:serve`
+3. Generate reports: `mvn allure:serve`
 
 ## IMPORTANT
 
