@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "deviceName": "Nexus 5X API 27",
+  "platformVersion": "8.1",
+  "automationName": "UiAutomator2",
+  "udid": "emulator-5554",
+  "avd": "Nexus_5X_API_27",
+  "fullReset": true,
+  "newCommandTimeout": 5,
+  "allowTestPackages": "true",
+}
